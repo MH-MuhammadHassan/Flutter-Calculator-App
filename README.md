@@ -11,6 +11,7 @@ A simple and elegant **calculator app** built using **Flutter** and **math_expre
 
 ## 📂 Project Structure  
 
+   
 flutter_calculator/
 │── lib/
 │   ├── main.dart
@@ -22,6 +23,7 @@ flutter_calculator/
 ```
 
 ## 🛠️ Installation & Setup  
+   ```
 
 1. **Clone the repository**  
    git clone https://github.com/MH-MuhammadHassan/Flutter-Calculator-App.git
