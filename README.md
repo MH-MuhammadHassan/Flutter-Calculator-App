@@ -24,7 +24,6 @@ flutter_calculator/
 ## 🛠️ Installation & Setup  
 
 1. **Clone the repository**  
-   ```sh
    git clone https://github.com/MH-MuhammadHassan/Flutter-Calculator-App.git
    cd flutter_calculator
    ```
