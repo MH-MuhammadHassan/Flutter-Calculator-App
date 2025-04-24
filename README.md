@@ -60,3 +60,18 @@ The **Flutter Calculator App** aims to provide users with a smooth, responsive, 
    ```bash
    git clone https://github.com/MH-MuhammadHassan/Flutter-Calculator-App.git
    cd Flutter-Calculator-App
+---
+
+## 👨‍💻 Author
+
+**Muhammad Hassan**  
+[LinkedIn](https://www.linkedin.com/in/mh-muhammadhassan/)
+
+---
+
+## 🤝 Contributions
+
+Contributions are welcome!  
+Feel free to open issues or submit pull requests to enhance the project.
+
+---
